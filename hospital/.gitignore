@@ -1,0 +1,21 @@
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Banco de dados local
+*.sqlite3
+db.sqlite3
+
+# Diretórios de arquivos gerados automaticamente
+/media/
+/staticfiles/
+
+# Ambiente virtual (evita subir dependências e arquivos binários)
+env/
+venv/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Logs
+*.log
